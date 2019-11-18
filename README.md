@@ -58,7 +58,7 @@ RSNA
 # DataFrame Transformation
 ```
 This is refering to the stage_x_train.csv file.
-Origin format
+Original format
 	ID	                            Label
 0	ID_12cadc6af_epidural	        0
 1	ID_12cadc6af_intraparenchymal	0
@@ -67,7 +67,7 @@ Origin format
 4	ID_12cadc6af_subdural	        0
 5	ID_12cadc6af_any	            0
 
-Transformed format
+Transformed to
 
 	name	        epidural	intraparenchymal	intraventricular	subarachnoid	subdural	any
 0	ID_12cadc6af	0	        0	                0	                0	            0	        0
