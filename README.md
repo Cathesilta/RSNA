@@ -28,10 +28,12 @@ The RSNA is an international society of radiologists, medical physicists and oth
 
 ## Data source
 
-```The data sourced from```
-https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data.
-```Acknowledgments```
+```
+The data sourced from
+https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data.```
+Acknowledgments
 https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview/acknowledgments
+```
 
 ## Directory Structure
 ```
@@ -78,7 +80,7 @@ Transformed to
 ```
 
 ## Data Transform from dicom format to png
-data_trainsform.ipynb is to convert dicom file to png
+data_trainsform.ipynb is to convert dicom file to png.
 This may take hours to do so.
 
 ## Train the network
