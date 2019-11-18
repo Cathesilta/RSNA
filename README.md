@@ -22,6 +22,7 @@ Four research institutions provided large volumes of de-identified CT studies th
 The RSNA is an international society of radiologists, medical physicists and other medical professionals with more than 54,000 members from 146 countries across the globe. They see the potential for AI to assist in detection and classification of hemorrhages in order to prioritize and expedite their clinical work.
 
 # Data Structure
+```
 RSNA
     stage_1
         stage_1_train.csv
@@ -42,8 +43,9 @@ RSNA
         stage_2_test
             ID_000009146.dcm
             ...
-
+```
 # DataFrame Transformation
+```
 This is refering to the stage_x_train.csv file.
 Origin format
 	ID	                            Label
@@ -55,11 +57,12 @@ Origin format
 5	ID_12cadc6af_any	            0
 
 Transformed format
+
 	name	        epidural	intraparenchymal	intraventricular	subarachnoid	subdural	any
 0	ID_12cadc6af	0	        0	                0	                0	            0	        0
 1	ID_38fd7baa0	0	        0	                0	                0	            0	        0
 2	ID_6c5d82413	0	        0	                0	                0	            0	        0
-
+```
 # Data Transform from dicom format to png
 data_trainsform.ipynb is to convert dicom file to png
 This may take hours to do so.
