@@ -28,8 +28,10 @@ The RSNA is an international society of radiologists, medical physicists and oth
 
 ## Data source
 
-```The data sourced from``` https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data.
-```Acknowledgments``` https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview/acknowledgments
+```The data sourced from```
+https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data.
+```Acknowledgments```
+https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview/acknowledgments
 
 ## Directory Structure
 ```
