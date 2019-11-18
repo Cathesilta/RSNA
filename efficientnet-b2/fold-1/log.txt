@@ -1,2 +1,0 @@
-WARNING 11-18 18:07:21 Could not find checkpoint to resume, train from scratch
-INFO 11-18 18:07:21 found 2 GPUs, will use all of them to train
