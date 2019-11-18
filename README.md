@@ -21,6 +21,8 @@ Four research institutions provided large volumes of de-identified CT studies th
 
 The RSNA is an international society of radiologists, medical physicists and other medical professionals with more than 54,000 members from 146 countries across the globe. They see the potential for AI to assist in detection and classification of hemorrhages in order to prioritize and expedite their clinical work.
 
+(https://github.com/pengbo0054/RSNA/blob/master/samples/ID_0c5667bea.png)
+
 # Data Structure
 ```
 RSNA
