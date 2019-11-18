@@ -5,7 +5,7 @@ Final score at 0.06041 stage-2 private leaderboard with evaluation metric Log Lo
 Ref: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
 ```
 
-# Background
+## Background
 Intracranial hemorrhage, bleeding that occurs inside the cranium, is a serious health problem requiring rapid and often intensive medical treatment. For example, intracranial hemorrhages account for approximately 10% of strokes in the U.S., where stroke is the fifth-leading cause of death. Identifying the location and type of any hemorrhage present is a critical step in treating the patient.
 
 Diagnosis requires an urgent procedure. When a patient shows acute neurological symptoms such as severe headache or loss of consciousness, highly trained specialists review medical images of the patient’s cranium to look for the presence, location and type of hemorrhage. The process is complicated and often time consuming.
@@ -23,15 +23,16 @@ Four research institutions provided large volumes of de-identified CT studies th
 
 The RSNA is an international society of radiologists, medical physicists and other medical professionals with more than 54,000 members from 146 countries across the globe. They see the potential for AI to assist in detection and classification of hemorrhages in order to prioritize and expedite their clinical work.
 
+## Some sample images
 <img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_0c5667bea.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_5e8854731.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_8a875b742.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_c2538747a.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_cd6706875.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_f041ecbbd.png" height='260' width="260">
 
-# Data source
+## Data source
 ```
 The data sourced from https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data.
 Acknowledgments https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview/acknowledgments
 ```
 
-# Data Structure
+## Directory Structure
 ```
 RSNA
     stage_1
@@ -55,7 +56,7 @@ RSNA
             ...
 ```
 
-# DataFrame Transformation
+## DataFrame Transformation
 ```
 This is refering to the stage_x_train.csv file.
 Original format
@@ -75,9 +76,9 @@ Transformed to
 2	ID_6c5d82413	0	        0	                0	                0	            0	        0
 ```
 
-# Data Transform from dicom format to png
+## Data Transform from dicom format to png
 data_trainsform.ipynb is to convert dicom file to png
 This may take hours to do so.
 
-# Train the network
+## Train the network
 Just train!
