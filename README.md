@@ -23,11 +23,11 @@ The RSNA is an international society of radiologists, medical physicists and oth
 
 # Some samples
 
-![Image of ID_0c5667bea](https://github.com/pengbo0054/RSNA/blob/master/samples/ID_0c5667bea.png)
+![Image of ID_0c5667bea](https://github.com/pengbo0054/RSNA/blob/master/samples/ID_0c5667bea.png =250x250)
 
-![Image of ID_5e8854731](https://github.com/pengbo0054/RSNA/blob/master/samples/ID_5e8854731.png)
+![Image of ID_5e8854731](https://github.com/pengbo0054/RSNA/blob/master/samples/ID_5e8854731.png =250x250)
 
-![Image ofID_8a875b742](https://github.com/pengbo0054/RSNA/blob/master/samples/ID_8a875b742.png)
+![Image ofID_8a875b742](https://github.com/pengbo0054/RSNA/blob/master/samples/ID_8a875b742.png =250x250)
 
 # Data Structure
 ```
