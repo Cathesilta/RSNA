@@ -85,3 +85,6 @@ This may take hours to do so.
 
 ## Train the network
 Just train!
+
+## Pseudo labels
+Due to the resource limit, not done.
