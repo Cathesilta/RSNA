@@ -1,7 +1,9 @@
 # RSNA
+```
 Repo for kaggle RSNA Intracranial Hemorrhage Detection.
 Final score at 0.06041 stage-2 private leaderboard with evaluation metric Log Loss.
 Ref: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
+```
 
 # Background
 Intracranial hemorrhage, bleeding that occurs inside the cranium, is a serious health problem requiring rapid and often intensive medical treatment. For example, intracranial hemorrhages account for approximately 10% of strokes in the U.S., where stroke is the fifth-leading cause of death. Identifying the location and type of any hemorrhage present is a critical step in treating the patient.
@@ -21,10 +23,6 @@ Four research institutions provided large volumes of de-identified CT studies th
 
 The RSNA is an international society of radiologists, medical physicists and other medical professionals with more than 54,000 members from 146 countries across the globe. They see the potential for AI to assist in detection and classification of hemorrhages in order to prioritize and expedite their clinical work.
 
-# Some samples
-
-<img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_0c5667bea.png" height='256' width="256"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_5e8854731.png" height='256' width="256"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_8a875b742.png" height='256' width="256">
-<img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_c2538747a.png" height='256' width="256"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_cd6706875.png" height='256' width="256"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_f041ecbbd.png" height='256' width="256">
 # Data Structure
 ```
 RSNA
