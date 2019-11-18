@@ -26,8 +26,10 @@ The RSNA is an international society of radiologists, medical physicists and oth
 <img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_0c5667bea.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_5e8854731.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_8a875b742.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_c2538747a.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_cd6706875.png" height='260' width="260"><img src="https://github.com/pengbo0054/RSNA/blob/master/samples/ID_f041ecbbd.png" height='260' width="260">
 
 # Data source
+```
 The data sourced from https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data.
 Acknowledgments https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview/acknowledgments
+```
 
 # Data Structure
 ```
@@ -52,6 +54,7 @@ RSNA
             ID_000009146.dcm
             ...
 ```
+
 # DataFrame Transformation
 ```
 This is refering to the stage_x_train.csv file.
@@ -71,6 +74,7 @@ Transformed format
 1	ID_38fd7baa0	0	        0	                0	                0	            0	        0
 2	ID_6c5d82413	0	        0	                0	                0	            0	        0
 ```
+
 # Data Transform from dicom format to png
 data_trainsform.ipynb is to convert dicom file to png
 This may take hours to do so.
