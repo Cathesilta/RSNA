@@ -64,11 +64,11 @@ RSNA
 This is refering to the stage_x_train.csv file.
 Original format
 	ID	                            Label
-0	ID_12cadc6af_epidural	        0
-1	ID_12cadc6af_intraparenchymal	0
-2	ID_12cadc6af_intraventricular	0
+0	ID_12cadc6af_epidural	            0
+1	ID_12cadc6af_intraparenchymal	    0
+2	ID_12cadc6af_intraventricular	    0
 3	ID_12cadc6af_subarachnoid	    0
-4	ID_12cadc6af_subdural	        0
+4	ID_12cadc6af_subdural	            0
 5	ID_12cadc6af_any	            0
 
 Transformed to
